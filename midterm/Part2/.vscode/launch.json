@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/billwu/Desktop/111 autumn/Network Programming/midterm/109550111/Part2",
+      "program": "/Users/billwu/Desktop/111 autumn/Network Programming/midterm/109550111/Part2/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
